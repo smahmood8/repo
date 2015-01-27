@@ -1,9 +1,12 @@
 # H1
 ## H2
+
 **bold**
+
 *italic*
 
-Regular sentence
+Regular sentence 1
+Regular sentence 2
 
 1. Item 1
 2. Item 2
