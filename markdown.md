@@ -6,6 +6,7 @@
 *italic*
 
 Regular sentence 1
+
 Regular sentence 2
 
 1. Item 1
